@@ -14,7 +14,7 @@ comment:
     duoshuo: wangbq
 
 # Comment setting
-omments :
+comments :
   provider : duoshuo
   duoshuo :
     short_name : wangbq
