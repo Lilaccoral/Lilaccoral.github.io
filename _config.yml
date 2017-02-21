@@ -13,6 +13,12 @@ comment:
     # disqus: leopard
     duoshuo: wangbq
 
+# Comment setting
+omments :
+  provider : duoshuo
+  duoshuo :
+    short_name : wangbq
+
 # Social
 social:
     weibo: 1099685995
