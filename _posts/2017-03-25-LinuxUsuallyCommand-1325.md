@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Linux常用命令
-tags: 'Linux,学习'
+layout: post
+tags:
+  - Linux
+  - 学习
+category: 
 ---
 
 #### 系统基础相关
