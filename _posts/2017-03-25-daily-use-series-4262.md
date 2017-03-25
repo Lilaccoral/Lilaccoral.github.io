@@ -6,7 +6,7 @@ tags:
 category: null
 ---
 ----
-#### 软件篇
+### 软件篇
 - EagleGet 下载软件
 - Netspeedmonitor 流量监测，可在win10任务栏显示网速
 - 快速启动工具 Launchy
@@ -27,4 +27,4 @@ Launchy 皮肤 http://afgdesign.deviantart.com/art/OS-X-Yosemite-Launchy-Skins-4
 
 ----
 
-#### 常用链接
+### 常用链接
