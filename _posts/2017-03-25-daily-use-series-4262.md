@@ -46,3 +46,5 @@ category: null
 - [掘金](https://juejin.im/timeline "掘金")
 - [GITHUB](https://github.com/ "GITHUB")
 - [百度脑图](http://naotu.baidu.com/ "百度脑图")
+- [V2EX](https://www.v2ex.com/ "v2ex")
+- [SegmentFault](https://segmentfault.com/ "segmentfault")
