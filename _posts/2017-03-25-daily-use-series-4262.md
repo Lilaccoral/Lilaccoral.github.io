@@ -35,6 +35,7 @@ category: null
 - foxmail 邮箱客户端
 - sublime text  文本编辑器
 - TeamViewer  远程管理软件
+- XShell ssh客户端
 
 
 
